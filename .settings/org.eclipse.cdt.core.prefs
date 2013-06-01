@@ -1,0 +1,10 @@
+#Wed May 29 13:44:58 CST 2013
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.toolchain.gnu.base.1724006230/CPLUSH_INCLUDE_PATH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.base.1724006230/CPLUSH_INCLUDE_PATH/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.base.1724006230/CPLUSH_INCLUDE_PATH/value=/usr/include/c++/4.4.7
+environment/project/cdt.managedbuild.toolchain.gnu.base.1724006230/C_INCLUDE_PATH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.base.1724006230/C_INCLUDE_PATH/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.base.1724006230/C_INCLUDE_PATH/value=/usr/incude
+environment/project/cdt.managedbuild.toolchain.gnu.base.1724006230/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.base.1724006230/appendContributed=true
